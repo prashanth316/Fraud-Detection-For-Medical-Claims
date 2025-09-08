@@ -52,7 +52,7 @@ Exploration of deep learning techniques (Neural Networks, Autoencoders).
 
 Clone this repository:
 
-git clone https://github.com/your-username/Fraud-Detection-For-Medical-Claims.git
+git clone https://github.com/prashanth316/Fraud-Detection-For-Medical-Claims.git
 
 
 Navigate to the folder:
